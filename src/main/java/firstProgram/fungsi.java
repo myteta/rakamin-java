@@ -14,6 +14,7 @@ public class fungsi {
         namaku.David("Kia");
 
         hasil.printNama("David Keren");
+        hasil.printNama("Boss Myta");
         tambah(x, y);
         tambah(x, z);
         tambah(y, z);
